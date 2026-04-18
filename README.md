@@ -290,8 +290,7 @@ FiqAI is an AI-powered tool designed to assist in learning about Islamic teachin
 ## 👩‍💻 Author
 
 **Minahil Azeem**
-AI Engineer | BSCS — Govt College Women University Faisalabad (2021–2025)
-Microsoft Certified — Generative AI Foundations
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-MinahilAzeem-181717?style=flat&logo=github)](https://github.com/MinahilAzeem)
 
