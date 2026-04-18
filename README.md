@@ -99,7 +99,6 @@ fiqhai-project2/
 ├── backend/
 │   ├── main.py              # FastAPI app entry point
 │   ├── rag_pipeline.py      # Core RAG logic
-│   ├── auth.py              # User authentication
 │   └── models/
 │       └── phi3/
 │           └── Phi-3-mini-4k-instruct-q4.gguf   # ← Download separately
@@ -109,8 +108,7 @@ fiqhai-project2/
 │       ├── chunks_metadata2.pkl
 │       └── embeddings_partial.npy
 ├── frontend/
-│   ├── streamlit_app.py     # Streamlit UI
-│   └── react-app/           # React/Vite frontend
+│   └──  streamlit_app.py     # Streamlit UI
 ├── Chunking_Embedding.ipynb # Google Colab preprocessing notebook
 └── requirements.txt
 ```
