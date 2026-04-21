@@ -283,7 +283,7 @@ Contributions are welcome! If you'd like to improve FiqAI:
 
 ## ⚠️ Disclaimer
 
-FiqAI is an AI-powered tool designed to assist in learning about Islamic teachings. It is not a substitute for qualified Islamic scholars. Always consult a knowledgeable scholar (*'alim*) for personal religious rulings (*fatwa*).
+FiqAI is an AI-powered tool designed to assist in learning about Islamic teachings with references. It is not a substitute for qualified Islamic scholars. Always consult a knowledgeable scholar (*'alim*) for personal religious rulings (*fatwa*).
 
 ---
 
